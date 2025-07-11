@@ -3,8 +3,8 @@
 *Collaborative Team Project – Summer Projects, IIT Guwahati*
 
 ## Team Members  
-Jagriti
-Malobika Barma
+- Jagriti
+- Malobika Barma
 
 
 #  Project Objective
