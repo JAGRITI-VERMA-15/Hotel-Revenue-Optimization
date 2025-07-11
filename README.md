@@ -1,15 +1,29 @@
 # **Hotel-Revenue-Optimization**
-- Project- Optimizing Revenue Leakages in the Hospitality Sector
 
-# Problem Statement
+*Collaborative Team Project – Summer Projects, IIT Guwahati*
 
-Hotels often lose revenue due to cancellations, no-shows, long lead times, low ADR bookings, and over-dependence on OTA and travel agents. This project explores these leakage points through EDA analysis.
+- Project - Optimizing Revenue Leakage and Profitability in the Hospitality Sector
 
-# Objective
+## Team Members  
+Jagriti , Malobika Barma
+
+
+#  Project Objective
 
 This project analyzes hotel performance to uncover revenue leakage by identifying cancellations, inefficiencies, and loss patterns. Using simulated hospitality datasets, it explores key KPIs like Revenue, ADR, RevPAR, Occupancy %, and WoW trends, supported by an interactive Power BI dashboard.
 
-# The Dataset
+
+# Project Overview :
+
+We collaboratively analyzed simulated hotel data to track key metrics and uncover hidden revenue leakage. 
+
+Here is a brief overview that we did -
+- we performed EDA to identify trends across time, booking channels, and room categories.
+- Then, we do Feature engineering and calculation of important KPIs such as ADR, RevPAR, Occupancy %, and Week-over-Week changes
+- find out reason of revenue leakage that mainly include cancellations and under use services.
+- Creation of an interactive Power BI dashboard to visualize insights dynamically and support data-driven decisions
+
+# Dataset
 
 The project contain **5 datasets**, simulating a real hotel database:
 - `fact_bookings.csv`: Booking dates, stay duration, room types
@@ -24,14 +38,5 @@ The project contain **5 datasets**, simulating a real hotel database:
 - **Pandas, NumPy, Matplotlib, Seaborn** – EDA and visualization
 - **Power BI** – Dashboard creation and KPI tracking
 
-# KPIs
-
-I have analyzed following KPIs to assess hotel performance and identify revenue leakage:
-
-
-
-# Power BI Dashboard
-
-# Full Report
 
 
