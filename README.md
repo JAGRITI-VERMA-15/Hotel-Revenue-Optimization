@@ -1,6 +1,6 @@
 # **Optimizing Revenue Leakage and Profitability in Hospitality Sector**
 
-*Collaborative Team Project – Summer Projects, IIT Guwahati*
+- *Collaborative Team Project – Summer Projects, IIT Guwahati*
 
 ## Team Members  
 - Jagriti
@@ -28,13 +28,13 @@ We were provided **5 datasets**, that simulates a real hotel database:
 
 # Project Overview :
 
-We collaboratively analyzed given datasets to track key metrics and uncover hidden revenue leakage. 
+- We collaboratively analyzed given datasets to track key metrics and uncover hidden revenue leakage. 
 
-Here is a brief overview that we did -
-- we performed EDA to identify trends across time, booking channels, and room categories.
-- Then, we do Feature engineering and calculation of important KPIs such as ADR, RevPAR, Occupancy %, and Week-over-Week changes
-- find out reason of revenue leakage that mainly includes cancellations, underutilized room categories, inefficient pricing, low visibility of       booking patterns, and unoptimized service utilization.
-- Then finally we Built an interactive dashboard to visualize insights dynamically, enabling data-driven decisions and strategic optimization.
+  Here is a brief overview that we did -
+  - we performed EDA to identify trends across time, booking channels, and room categories.
+  - Then, we do Feature engineering and calculation of important KPIs such as ADR, RevPAR, Occupancy %, and Week-over-Week changes
+  - find out reason of revenue leakage that mainly includes cancellations, underutilized room categories, inefficient pricing, low visibility of       booking patterns, and unoptimized service utilization.
+  - Then finally we Built an interactive dashboard to visualize insights dynamically, enabling data-driven decisions and strategic optimization.
   
 
 
