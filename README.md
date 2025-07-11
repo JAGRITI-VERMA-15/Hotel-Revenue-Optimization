@@ -26,6 +26,8 @@ The project contain **5 datasets**, simulating a real hotel database:
 
 # KPIs
 
+I have analyzed following KPIs to assess hotel performance and identify revenue leakage:
+
 
 
 # Power BI Dashboard
